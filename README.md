@@ -1,5 +1,6 @@
 # OverView
 Basic goal of this project is to make a CNN which will recongnise whether a given input is an image of a cat or a dog. 
+
 Training Set contains: 4000 images of dogs
                        4000 images of cats
                        
