@@ -1,3 +1,11 @@
+# OverView
+Basic goal of this project is to make a CNN which will recongnise wether a given input is an image of a cat or a dog. 
+Training Set contains: 4000 images of dogs
+                       4000 images of cats
+                       
+Test Set contains: 1000 images of cats
+                   1000 images of dogs
+                   
 # Image-Classification-Using-CNN
 This Project uses CNN to classify images
 
@@ -17,4 +25,3 @@ They have applications in image and video recognition, recommender systems and n
 * Spyder: Anaconda Navigator
 * TensorFlow Backend
 * Keras
-
